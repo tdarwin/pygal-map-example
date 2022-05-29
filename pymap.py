@@ -7,8 +7,8 @@ custom_style = Style(
     background='#FFFFFF',
     plot_background='#FFFFFF',
     foreground='#FFFFFF',
-    foreground_strong='#FFFFFF',  # Changes the colors of the lines between countries
-    foreground_subtle='#FFFFFF',  # Changes the color of the lines between countries when emboldened
+    foreground_strong='#000000',  # Changes the colors of the lines between countries
+    foreground_subtle='#000000',  # Changes the color of the lines between countries when emboldened
     colors=('#E853A0', '#E8537A', '#E95355', '#E87653', '#E89B53'))  # Changes the color of the countries
 
 # create a world map
