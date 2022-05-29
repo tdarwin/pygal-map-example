@@ -4,10 +4,9 @@ This isn't even a library, it's just a quick example of using python to generate
 
 To get this running:
 
-```shell
-pip3 install venv
-python3 -m venv venv
-source venv/bin/activate
+```bash
+python3 -m venv venv # only needs to be done the first time after cloning
+source venv/bin/activate # only needs to be done the first time you open a new terminal session
 pip install -U pip
 pip install -U -r requirements.txt
 python pymap.py

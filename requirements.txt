@@ -1,3 +1,4 @@
 pygal
 pygal_maps_world
 cairosvg
+lxml
